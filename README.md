@@ -25,7 +25,7 @@ Use a terminal or command prompt to navigate to the project directory and run:
 ```bash
 python calculator.py
 # Output
-The sample output is given in file in the current repository.
+The sample output is given in file, 'Output-sample.png' in the current repository.
 If executed, Output will be displayed directly in the terminal.
 
 # Created by:
