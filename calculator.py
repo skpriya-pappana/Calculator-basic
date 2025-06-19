@@ -1,3 +1,18 @@
+"""
+Description:
+This is a command-line based calculator program built using Object-Oriented Programming (OOP) principles in Python.
+It supports the following features:
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero division handling)
+- Input validation for numbers
+- Maintains a history of all operations
+The calculator runs in a loop until the user chooses to exit.
+👩‍💻 Created by: Pappana Sai Krishna Priya
+🗓️ Date: June 2025
+🔧 Python Version: 3.x
+"""
 class Calc:
     def __init__(self):
         self.value1 = 0
